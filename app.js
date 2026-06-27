@@ -21,6 +21,7 @@ const TL_USERS = {
   shailendra: { password: 'Shailendra@4353', displayName: 'Shailendra' },
   simran: { password: 'Simran@5232', displayName: 'Simran' },
   sudhanshu: { password: 'Sudhanshu@5243', displayName: 'Sudhanshu' },
+  setu: { password: 'Setu@2124', displayName: 'Setu' }
 };
 
 // ==========================================
